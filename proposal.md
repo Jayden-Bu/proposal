@@ -1,4 +1,4 @@
-“”"
+
 
 Repository
 
@@ -67,5 +67,3 @@ Milestones
 2. Test with people and see how random the code will be
 3. Fix any errors in the code if anything pops up
 4. Finalize the design and submit the work.
-
-“”"
